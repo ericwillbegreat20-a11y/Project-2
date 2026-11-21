@@ -1,0 +1,6 @@
+﻿Campusline Hate UX Demo
+
+Extract all files, then open index.html in Chrome or Edge. Keep every file in the same folder.
+Assignment task: open Assignments, choose one, enter an answer, check the acknowledgment, then accept both confirmations.
+
+Payment demo: click Simulate payment to open MISSPAY.html. Keep that file beside index.html; it is a fictional simulation and does not process real payments.

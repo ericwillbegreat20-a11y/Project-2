@@ -1,0 +1,8 @@
+﻿Hate UX design mechanisms:
+1. One-choice route selector plus acknowledgment and double confirmation before submission.
+2. Three-minute visible countdown; the current answer is auto-submitted when time expires.
+3. Course codes are random and opaque, so course identities are difficult to recognize.
+4. Assignment prompts demand infeasible work (500 interviews, production AI tutor, 40-page report).
+5. Grades are ordered lowest score first.
+
+A student can still submit by entering an answer, choosing Course portal, checking the box, and accepting both confirmations; otherwise the timer submits current content at three minutes.
